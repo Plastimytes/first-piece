@@ -10,4 +10,6 @@ function bounce() {
   }, 500);
 }
 
+
+//Set an interval//
 setInterval(bounce, 1000);
