@@ -1,3 +1,4 @@
+//Mixing JavaScript with html//
 <!DOCTYPE html>
 <html>
 <head>
@@ -17,6 +18,7 @@
 <body>
   <div id="ball"></div>
 
+//Use the script element 
   <script>
     const ball = document.getElementById('ball');
     let x = 0;
